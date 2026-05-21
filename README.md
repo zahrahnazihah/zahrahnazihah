@@ -46,7 +46,7 @@
 ## 🌱 Currently Learning
 - API Development
 - Laravel
-- Backend Development
+- Frontend & Backend Development
 - Database Optimization
 - UI/UX Design
 
@@ -54,7 +54,7 @@
 
 ## 📊 GitHub Stats
 
-![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahrahnazihah&show_icons=true)
+![zahrahnazihah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahrahnazihah&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahrahnazihah&layout=compact)
 
