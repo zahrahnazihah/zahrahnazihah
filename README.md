@@ -2,11 +2,11 @@
 ---
 
 ## 🌸 About Me
-- Introvert but curious learner
-- Enjoy building web-based systems
-- Currently working on e-commerce website projects
-- Interested in creating clean and user-friendly interfaces
-- Slowly improving my logic & coding skills every day
+- Informatics Engineering Student  
+- Interested in Web Development & UI/UX  
+- Working with Laravel, PHP, Next.js, MySQL, and Tailwind CSS  
+- Building web applications while learning modern technologies  
+- Love clean interfaces, soft aesthetics, and calm vibes
 
 ---
 
