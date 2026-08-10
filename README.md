@@ -3,7 +3,7 @@
 
 ## 🌸 About Me
 - Informatics Engineering Student  
-- Interested in Web Development & UI/UX  
+- Interested in Web Development  
 - Working with Laravel, PHP, Next.js, MySQL, and Tailwind CSS  
 - Building web applications while learning modern technologies  
 - Love clean interfaces, soft aesthetics, and calm vibes
